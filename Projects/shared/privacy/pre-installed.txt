@@ -1,0 +1,17 @@
+Settings
+Calculator
+Camera
+Contacts
+Gallery
+PDF reader
+Telephone
+Clock
+Files
+Auditor - set up server on mediaserver?
+
+
+UNINSTALL
+---------
+Vanadium - browser
+Calendar
+Messages

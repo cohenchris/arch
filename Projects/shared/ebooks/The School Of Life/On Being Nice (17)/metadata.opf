@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8641d21-5d87-4090-ba39-94449c2cc50b</dc:identifier>
+        <dc:title>On Being Nice</dc:title>
+        <dc:creator opf:file-as="Life, The School of" opf:role="aut">The School Of Life</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.99.4) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-27T00:31:29+00:00</dc:date>
+        <dc:description>An in-depth examination of our attitudes towards the overlooked quality of niceness. Most books that want to change us seek to make us richer or thinner. This book wants to help us to be nicer: that is, less irritable, more patient, readier to listen, warmer, less prickly... Niceness may not have the immediate allure of money or fame, but it is a hugely important quality nevertheless and one that we neglect at our peril. This is a guidebook to the uncharted landscape of niceness, gently leading us around the key themes of this forgotten quality. We learn how to be charitable, how to forgive, how to be natural and how to reassure. We learn that niceness is compatible with strength and is no indicator of naivety. Niceness deserves to be rediscovered as one of the highest of all human achievements.</dc:description>
+        <dc:publisher>School of Life Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780995573642</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">kytuswEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B071NV8C13</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;The School Of Life&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-16T00:14:30+00:00"/>
+        <meta name="calibre:title_sort" content="On Being Nice"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

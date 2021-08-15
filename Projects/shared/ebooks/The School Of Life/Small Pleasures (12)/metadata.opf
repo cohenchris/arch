@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5f2ffd7-d6d5-44c0-9271-fc1f0736acb7</dc:identifier>
+        <dc:title>Small Pleasures</dc:title>
+        <dc:creator opf:file-as="Life, The School of" opf:role="aut">The School Of Life</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.99.4) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-15T00:32:07+00:00</dc:date>
+        <dc:description>So often, we exhaust ourselves and the planet in a search for very large pleasures - while all around us lies a wealth of small pleasures, which - if only we paid more attention - could daily bring us solace and joy at little cost and effort. But we need some encouragement to focus our gaze. This is a book to guide us to the best of life's small pleasures: everything from the distinctive delight of holding a child's hand to the enjoyment of disagreeing with someone to the joy of the evening sky; an intriguing, evocative mix of small pleasures that will heighten our senses and return us to the world with new-found excitement and enthusiasm.</dc:description>
+        <dc:publisher>School of Life</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">0QpFzgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01MREDQNO</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780993538780</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;The School Of Life&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-16T00:14:29+00:00"/>
+        <meta name="calibre:title_sort" content="Small Pleasures"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

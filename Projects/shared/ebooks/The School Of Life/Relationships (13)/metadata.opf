@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18a30f4e-68de-4577-b5e8-d4ae926f361e</dc:identifier>
+        <dc:title>Relationships</dc:title>
+        <dc:creator opf:file-as="Life, The School of" opf:role="aut">The School Of Life</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.99.4) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-27T00:32:10.123725+00:00</dc:date>
+        <dc:description>A fresh approach to matters of the heart, teaching us that success in love need never again be just a matter of luck. Love has a history and we ride--sometimes rather helplessly--on its currents. Since around 1750, we have been living in a highly distinctive era in the history of love that we can call Romanticism. And it has been a disaster for love. Relationships challenges the assumptions of the Romantic view of love. It shows how to develop new attitudes that can lead to a psychologically mature vision of love: That it is OK that love and sex may not always belong together That discussing money early on, in a serious way, is not a betrayal of love That realizing that we are rather flawed, and our partner is too, is of huge benefit to a couple That we will never find everything we need in another person, nor they in us That spending two hours discussing whether bathroom towels should be hung up or can be left on the floor has its own dignity Full of applied real-life examples, and enlivened throughout with humor and cultural anecdote, this innovative guide paves the way to a new, brighter future for love.</dc:description>
+        <dc:publisher>School of Life</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01N5B2JUJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780993538742</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">GY42vgAACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Non-Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;The School Of Life&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-16T00:14:29+00:00"/>
+        <meta name="calibre:title_sort" content="Relationships"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

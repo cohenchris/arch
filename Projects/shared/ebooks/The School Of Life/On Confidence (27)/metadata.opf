@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04415fd4-b0bc-4bf9-843e-5b5aafb37eae</dc:identifier>
+        <dc:title>On Confidence</dc:title>
+        <dc:creator opf:file-as="Life, The School Of" opf:role="aut">The School Of Life</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.99.4) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-03T00:10:49.849498+00:00</dc:date>
+        <dc:description>A thought-provoking essay that teaches us that confidence is not a gift from the gods, but a skill that can be learned. We spend vast amounts of time acquiring confidence in narrow technical fields: quadratic equations or bioengineering; economics or pole vaulting. But we overlook the primordial need to acquire a more free ranging variety of confidence--one that can serve us across a range of tasks: speaking to strangers at parties, asking someone to marry us, suggesting a fellow passenger turn down their music, changing the world. This is a guidebook to confidence, why we lack it and how we can acquire more of it in our lives. On Confidence walks us gently and wryly around the key issues that stop us from making more of our potential.</dc:description>
+        <dc:publisher>School of Life Press</dc:publisher>
+        <dc:identifier opf:scheme="ASIN">B074DVWG25</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">CGIxtAEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780995573673</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Confidence</dc:subject>
+        <dc:subject>Personal Development</dc:subject>
+        <dc:subject>Non-Fiction</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;The School Of Life&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-07-22T00:10:42.546075+00:00"/>
+        <meta name="calibre:title_sort" content="On Confidence"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

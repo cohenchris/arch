@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f2112c4-2367-4da3-aaf2-75f9314ddc8d</dc:identifier>
+        <dc:title>Self-Knowledge</dc:title>
+        <dc:creator opf:file-as="Life, The School Of" opf:role="aut">The School Of Life</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.99.4) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-24T00:32:02+00:00</dc:date>
+        <dc:description>An examination of the importance of self-knowledge, providing practical exercises to aid self-discovery. In Ancient Greece, when the philosopher Socrates was asked to sum up what all philosophical commandments could be reduced to, he replied: 'Know yourself'. Self-knowledge matters so much because it is only on the basis of an accurate sense of who we are that we can make reliable decisions--particularly around love and work. This book takes us on a journey into our deepest, most elusive selves and arms us with a set of tools to understand our characters properly. We come away with a newly clarified sense of who we are, what we need to watch out for when making decisions, and what our priorities and potential might be. Exercise:  Interpreting Anxiety Write down what you are anxious about; find at least eight things. Each entry should only be a single word (or just a few words) at this point. Don't worry if some of the anxieties look either incredibly trivial or tragi-comically large. If you're having trouble, search for things that may be anxiety-inducing under the following categories:  - Work - Relationships - Children/Parents - Health - Money - Things I have to do Feel the curious release that can come from just making a list of these items. Huge relief can now come from what we call 'unpacking' an anxiety. There are two kinds of unpacking we might do around any given anxiety. 1. Practical unpacking Walk yourself through the practical challenge. Ask the following questions:  - What steps do you need to take? - What do others need to do? - What needs to happen when? It is very useful to have a calm and sympathetic part of yourself (or a friend) listening in on the detailed description of what needs to be done to address an issue. It is no longer merely an anxiety; it is a set of steps. They might not all be easy, but at least you are clearer about what they are. 2. Emotional unpacking Talk yourself through an emotional challenge or set of doubts. Describe the feeling in more detail. What do you feel it points to? Imagine trying to piece it together for a very considerate friend. The aim here isn't to solve all anxieties; it's to start to get to know them and to experience the relief that comes from this.</dc:description>
+        <dc:publisher>School of Life Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">37dGtAEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">9663ad11-e749-4859-9fcb-6dae5456981d</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780995753501</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;The School Of Life&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-16T00:14:29+00:00"/>
+        <meta name="calibre:title_sort" content="Self-Knowledge"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

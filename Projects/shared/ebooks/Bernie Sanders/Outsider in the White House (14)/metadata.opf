@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e955870-3825-4b92-9356-10ef3d141240</dc:identifier>
+        <dc:title>Outsider in the White House</dc:title>
+        <dc:creator opf:file-as="Sanders, Bernie" opf:role="aut">Bernie Sanders</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.99.4) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-03T00:32:12.867238+00:00</dc:date>
+        <dc:description>Bernie Sanders's political autobiography, with an updated afterword that brings his story up to the 2020 presidential campaign  Explaining where he comes from and how his politics were formed, Senator Bernie Sanders describes in detail how, after cutting his teeth in the Civil Rights movement, he helped build an extraordinary grassroots political campaign in Vermont, making it possible for him to become the first independent elected to the US House of Representatives in forty years. He is now the longest-serving independent in US political history.  An extensive afterword by the Nation's National Affairs correspondent, John Nichols, continues the story with Sanders's entrance into the Senate, the drama of the 2016 Democratic Primary, his ongoing resistance to Trump, and the thrilling launch of his 2020 bid for the White House. A new foreword by Nina Turner, former president of Our Revolution and co-chair of the Sanders for President campaign, provides a rare glimpse of Bernie as a person. Outsider in the White House is the story of a passionate and principled political life.</dc:description>
+        <dc:publisher>Verso Books</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1788737695</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">6LWnDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781788737692</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Political Process</dc:subject>
+        <dc:subject>21st Century</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>United States</dc:subject>
+        <dc:subject>Campaigns &amp; Elections</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bernie Sanders&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-07-16T00:14:29+00:00"/>
+        <meta name="calibre:title_sort" content="Outsider in the White House"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
